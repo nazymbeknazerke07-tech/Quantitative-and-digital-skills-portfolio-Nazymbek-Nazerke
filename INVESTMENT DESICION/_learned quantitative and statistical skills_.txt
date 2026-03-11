@@ -1,0 +1,7 @@
+﻿Doing this portfolio I used and learned quantitative and statistical skills:
+1. Financial Data Processing: Collected and cleaned historical stock data and market indices, converting adjusted closing prices into weekly returns for analysis.
+2. Descriptive Statistics: Computed and interpreted key statistical metrics, including Mean Return, Standard Deviation (volatility), and the Coefficient of Variation (CV) to assess investment attractiveness.
+3. Risk-Adjusted Performance Evaluation: Analyzed investment efficiency using the Sharpe Ratio to determine the excess return generated per unit of risk.
+4. Econometric Modeling & Regression: Developed regression models to calculate the Beta coefficient ($\beta$), evaluating the systematic risk and sensitivity of assets relative to the S&P 500 index.
+5. Hypothesis Testing: Conducted statistical hypothesis testing, including the Jarque-Bera test, to analyze the normality of return distributions and identify "fat tails" in financial data.
+6. Software & Version Control: Demonstrated advanced proficiency in Excel (Data Analysis Toolpak) for financial modeling and utilized GitHub for project documentation and version control.
