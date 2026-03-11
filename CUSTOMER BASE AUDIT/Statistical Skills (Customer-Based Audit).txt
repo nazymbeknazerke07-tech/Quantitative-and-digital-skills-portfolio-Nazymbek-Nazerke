@@ -1,0 +1,7 @@
+﻿Doing this portfolio I used and learned quantitative and statistical skills:
+1) Customer Segmentation and  Decile Analysis: Categorized a database of 31,000+ customers into deciles to identify value concentration and the "heavy-user" effect (Pareto Principle).
+2) Cohort Analysis: Developed lifecycle models to track customer retention and activity across multiple quarters, identifying critical churn points.
+3) Financial Performance Metrics: Calculated and interpreted key business indicators, including Average Order Frequency (AOF), Average Order Value (AOV), and profit margins.
+4) Retention Modeling: Analyzed the "Active %" of various cohorts to evaluate the effectiveness of customer acquisition and long-term loyalty.
+5) Data-Driven Strategic Planning: Formulated evidence-based managerial recommendations for VIP retention and re-engagement campaigns based on statistical findings.
+6) Advanced Excel Proficiency: Utilized complex formulas and data structuring techniques for customer behavior auditing and financial reporting.
